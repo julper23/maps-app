@@ -24,4 +24,7 @@ root.render(
     <MapsApp />
   </React.StrictMode>
 );
+<<<<<<< HEAD
 
+=======
+>>>>>>> 29456587bb2fac33929ab5924a41e4ea00d8f628
